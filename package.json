@@ -16,6 +16,7 @@
   "devDependencies": {
     "@jest/globals": "^29.7.0",
     "@testing-library/react": "^14.2.1",
+    "@types/insane": "^1.0.0",
     "@types/jest": "^29.5.12",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "eslint": "^8.56.0",
@@ -30,5 +31,18 @@
     "tsup": "^8.0.2",
     "typescript": "^5.3.3",
     "zod": "^3.22.4"
+  },
+  "dependencies": {
+    "@usewaypoint/block-avatar": "^0.0.3",
+    "@usewaypoint/block-button": "^0.0.3",
+    "@usewaypoint/block-columns-container": "^0.0.3",
+    "@usewaypoint/block-container": "^0.0.2",
+    "@usewaypoint/block-divider": "^0.0.4",
+    "@usewaypoint/block-heading": "^0.0.3",
+    "@usewaypoint/block-html": "^0.0.3",
+    "@usewaypoint/block-image": "^0.0.5",
+    "@usewaypoint/block-spacer": "^0.0.3",
+    "@usewaypoint/block-text": "^0.0.6",
+    "@usewaypoint/document-core": "^0.0.6"
   }
 }
